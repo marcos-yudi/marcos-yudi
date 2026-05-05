@@ -35,7 +35,7 @@ Como Arquiteto e Urbanista graduado, trago uma visão sistêmica e estrutural pa
 
 ### 📫 Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/marcos-yudi/)
-- [Email](marcos.y.kimura@gmail.com)
+- Email: marcos.y.kimura@gmail.com
 
 ---
 *“Less is only more when more is no good.” – Frank Lloyd Wright*
