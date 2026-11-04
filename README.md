@@ -1,41 +1,69 @@
-# Oi, Marcos Yudi aqui 👋
+# Oi, eu sou o Marcos Yudi 👋
 
-Estudante de Ciência da Computação em transição de carreira. Unindo o rigor técnico da **Arquitetura e Urbanismo** com a **Engenharia de Software**, com foco em soluções escaláveis, automação e inteligência de dados.
+**Estagiário de IA na Tata Consultancy Services (TCS)** · Ciência de Dados & Machine Learning · Engenharia de Dados
+Arquiteto e Urbanista (UEL) · Graduando em Ciência da Computação (UniFil)
 
-### 🏛️ Do Espaço Físico ao Espaço Digital
-Como Arquiteto e Urbanista graduado, trago uma visão sistêmica e estrutural para o desenvolvimento de software. Atualmente no 2º ano de Ciência da Computação, dedico-me a construir sistemas robustos, aplicando conceitos de design técnico e organização na resolução de problemas complexos de infraestrutura e dados.
+Saí da Arquitetura para os dados levando comigo o hábito de olhar para o sistema como um todo: antes de buscar respostas, procurar as perguntas certas. Hoje aplico isso em análise de dados, modelos de machine learning e pipelines na nuvem.
 
----
-
-### 🚀 Áreas de Foco & Estudo:
-- **Engenharia de Dados & IA:** Transformando dados não estruturados (planos diretores, PDFs técnicos, BIM) em informações estratégicas (JSON/Bases SQL) utilizando Python e frameworks de IA Agêntica como LangChain.
-- **SRE & Infraestrutura:** Focado em confiabilidade, automação de deploys e observabilidade. Explorando o ecossistema Google Cloud Platform (GCP) para sustentar aplicações resilientes.
-- **Desenvolvimento Backend:** Construindo APIs eficientes com Java e Node.js, sempre prezando por código limpo e os princípios SOLID.
-
-### 🛠️ Tech Stack & Ferramentas:
-- **Linguagens:** Java, Python, JavaScript, SQL.
-- **Engenharia de Dados:** ETL, Processamento de Dados, Integração com LLMs (Gemini/OpenAI), LangChain.
-- **SRE & Cloud:** Google Cloud Platform, Docker, Monitoramento, Automação de Infraestrutura.
-- **Gestão & Domínio:** Metodologias Ágeis (Jira/Trello), Modelagem BIM, Análise Urbanística.
+🎯 **Busco oportunidades** em Ciência de Dados e Engenharia de Dados.
 
 ---
 
-### 📊 Projetos em Destaque:
+## 🛠️ Stack
 
-* **API de Escalada (Node.js)** 🧗
-  Sistema backend desenvolvido para gerenciar o ecossistema de escalada indoor, focado em regras de negócio consistentes e deployed via Render.
-
-* **Agente de Inteligência Urbanística** 🏗️
-  Projeto de Engenharia de Dados que utiliza IA Agêntica para processar e estruturar parâmetros de zoneamento urbano e índices construtivos a partir de documentos técnicos.
-
-* **Estrutura de Dados & Algoritmos** 💻
-  Repositórios dedicados ao estudo de performance e lógica, incluindo implementações de pilhas dinâmicas e análise de complexidade em Java.
+| Área                   | Ferramentas                                                                              |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
+| **Linguagens**    | Python · SQL · Java · JavaScript                                                      |
+| **Dados & ML**    | Pandas · Scikit-learn · Redes Neurais · Visão Computacional · PCA / Clusterização |
+| **IA Generativa** | Vertex AI · Gemini · LangChain                                                         |
+| **Cloud & Dados** | Google Cloud (BigQuery, Cloud Storage, Compute Engine, IAM) · PostgreSQL · SQLite      |
+| **Engenharia**    | Git · Docker · FastAPI · Node.js / Express · CI com GitHub Actions                   |
 
 ---
 
-### 📫 Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/marcos-yudi/)
-- Email: marcos.y.kimura@gmail.com
+## 📂 Projetos em destaque
 
+### 🔎 [Auditor-Project](https://github.com/yaMimis/Auditor-Project) · *em equipe*
+
+Projeto de dados e IA de ponta a ponta: modelos em notebooks, API em **FastAPI**, camada de banco, módulo de **IA generativa** com saída estruturada em JSON, testes, **Docker** e **CI no GitHub Actions**.
+
+Minha contribuição:
+
+- Pesquisa, coleta, carga e limpeza de dados (Dataset Bondora, taxas Selic, BaCen e Banco Central da Europa).
+- Documentação dos processos (DATA.md, Glossário e BPMN).
+- EDA (Exploratory Data Analysis): resumos estatísticos, gráficos e tabelas para identificação de anomalias, padrões, proporção de inadimplência etc.
+- Views SQL para o app
+
+`Python` `FastAPI` `ML` `GenAI` `Docker`
+
+### 🤖 [AI_exercises](https://github.com/marcos-yudi/AI_exercises)
+
+Estudos práticos de Machine Learning: pré-processamento, normalização, **PCA**, **clusterização**, **comparação de modelos**, **redes neurais** para regressão e classificação com validação **K-Fold**, e **visão computacional com CNNs** (CPU e GPU).
+`Python` `Scikit-learn` `Redes Neurais` `CNN`
+
+### 🧗 [api-escalada-node](https://github.com/marcos-yudi/api-escalada-node)
+
+API REST para gerenciar vias e setores de um ginásio de escalada: autenticação **JWT**, validação, paginação, filtros e ordenação, com **deploy no Render**. Une minha experiência de projetar paredes de escalada com desenvolvimento backend.
+`Node.js` `Express` `SQLite` `JWT`
+
+---
+
+## 📜 Certificações
+
+- **Google Cloud Computing Foundations Certificate**
+- Skill Badges Google Cloud: *Prompt Design in Vertex AI* · *Prepare Data for ML APIs* · *Build a Secure Google Cloud Network* · *Implement Load Balancing on Compute Engine* · *Set Up an App Dev Environment* · *Configure Service Accounts and IAM Roles* · *Privileged Access with IAM*
+
+---
+
+## 🇺🇸 In English
+
+AI Intern at **Tata Consultancy Services**, Architect turned data professional, and Computer Science student. I work with **Python, SQL, Machine Learning and Google Cloud (BigQuery, Vertex AI)**, and I'm looking for opportunities in **Data Science and Data Engineering**.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--yudi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-yudi/)
+[![Email](https://img.shields.io/badge/Email-marcos.y.kimura%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:marcos.y.kimura@gmail.com)
 ---
 *“Less is only more when more is no good.” – Frank Lloyd Wright*
