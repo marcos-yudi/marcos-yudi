@@ -33,6 +33,7 @@ Minha contribuição:
 - Documentação dos processos (DATA.md, Glossário e BPMN).
 - EDA (Exploratory Data Analysis): resumos estatísticos, gráficos e tabelas para identificação de anomalias, padrões, proporção de inadimplência etc.
 - Views SQL para o app
+- Gráficos, tabelas e dashboards para análise e apresentação.
 - Testes de validação e tratamento de exceção.
 
 `Python` `FastAPI` `ML` `GenAI` `Docker`
