@@ -1,4 +1,4 @@
-# Oi, eu sou o Marcos Yudi 👋
+# Oi, Marcos Yudi aqui👋
 
 **Estagiário de IA na Tata Consultancy Services (TCS)** · Ciência de Dados & Machine Learning · Engenharia de Dados
 Arquiteto e Urbanista (UEL) · Graduando em Ciência da Computação (UniFil)
